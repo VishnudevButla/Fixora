@@ -1,7 +1,9 @@
 # 🛠️ Fixora — AI-Powered Hyperlocal Problem Solver
 
 <p align="center">
-  <img src="public/favicon.svg" width="120" alt="Fixora Logo"/>
+  <a href="https://fixora725.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/VishnudevButla/Fixora/main/public/favicon.svg" alt="Fixora Logo" width="120">
+  </a>
 </p>
 
 <p align="center">
